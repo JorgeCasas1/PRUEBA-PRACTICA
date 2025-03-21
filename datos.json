@@ -1,0 +1,29 @@
+{
+    "nombre": "Mengano",
+    "edad": 99,
+    "conductor": true,
+    "coches": [
+    "Ford",
+    "Audi",
+    "Mercedes"
+    ],
+    "telefonos": [
+    {
+    "modelo": "Xiaomi",
+    "orden": 13,
+    "sistema": "Android"
+    },
+    {
+    "modelo": "iPhone",
+    "orden": 4,
+    "sistema": "iOS"
+    }
+    ],
+    "equipo": null,
+    "numero_hermanos": 2,
+    "hermanos": [
+    "Fulano",
+    "Zutano",
+    "Perantano"
+    ]
+    }
